@@ -15,7 +15,7 @@ Ver [DEMO](https://nice-shoes.netlify.app) de la app.
 - React-router-dom (Navegación)
 - React-bootstrap (Framework para un diseño responsive)
 - React-icons (Icons)
-- SweetAlerts2 (Libreria de JavaScript para alerta personalizables)
+- SweetAlerts2 (Libreria de JavaScript para alertas personalizables)
 
 ## ¿Como usar la aplicación de forma local?
 
